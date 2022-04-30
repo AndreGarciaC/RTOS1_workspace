@@ -1,0 +1,3 @@
+../Core/Src/supportingFunctions.c:112:6:vPrintString	16	static
+../Core/Src/supportingFunctions.c:124:6:vPrintStringAndNumber	72	static
+../Core/Src/supportingFunctions.c:140:6:vPrintTwoStrings	80	static
